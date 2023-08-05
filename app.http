@@ -1,0 +1,10 @@
+GET http://localhost:3000/
+# This is for first request
+
+### 
+GET http://localhost:3000/date
+# This is for date request
+
+###
+GET http://localhost:3000/page
+# This is for sending page
